@@ -24,6 +24,11 @@ void WLM()
     std::cout<<"WLM"<<std::endl;
 }
 
+void LC2()
+{
+    std::cout<<"LC2"<<std::endl;
+}
+
 int main()
 {
     std::cout<<"Hello"<<std::endl;
@@ -32,4 +37,5 @@ int main()
     Zhm();
     LCJ();
     WLM();
+    LC2();
 }
