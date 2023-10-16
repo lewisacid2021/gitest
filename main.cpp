@@ -33,6 +33,7 @@ void LC1()
 {
     std::cout<<"LC1"<<std::endl;
     //asdasd
+    ///asdasdasd
 }
 
 int main()
