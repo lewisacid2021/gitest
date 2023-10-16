@@ -1,3 +1,4 @@
+#include <iterator>
 #ifdef _WIN32
 #include<iostream>
 #else
@@ -18,6 +19,10 @@ void LCJ()
 {
     std::cout<<"LCJ"<<std::endl;
 }
+void WLM()
+{
+    std::cout<<"WLM"<<std::endl;
+}
 
 int main()
 {
@@ -26,4 +31,5 @@ int main()
     LM();
     Zhm();
     LCJ();
+    WLM();
 }
