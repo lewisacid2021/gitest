@@ -27,6 +27,7 @@ void WLM()
 void LC1()
 {
     std::cout<<"LC1"<<std::endl;
+    ///asdasdasd
 }
 
 int main()
