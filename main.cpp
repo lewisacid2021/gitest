@@ -1,3 +1,4 @@
+#include <iterator>
 #ifdef _WIN32
 #include<iostream>
 #else
@@ -14,10 +15,16 @@ void Zhm()
     std::cout<<"The Zhu"<<std::endl;
 }
 
+void WLM()
+{
+    std::cout<<"WLM"<<std::endl;
+}
+
 int main()
 {
     std::cout<<"Hello"<<std::endl;
     std::cout<<"World"<<std::endl;
     LM();
     Zhm();
+    WLM();
 }
