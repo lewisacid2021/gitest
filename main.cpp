@@ -27,6 +27,11 @@ void WLM()
 void LC2()
 {
     std::cout<<"LC2"<<std::endl;
+
+}
+void LC1()
+{
+    std::cout<<"LC1"<<std::endl;
 }
 
 int main()
@@ -38,4 +43,5 @@ int main()
     LCJ();
     WLM();
     LC2();
+    LC1();
 }
