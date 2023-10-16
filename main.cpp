@@ -32,6 +32,7 @@ void LC2()
 void LC1()
 {
     std::cout<<"LC1"<<std::endl;
+    //asdasd
 }
 
 int main()
